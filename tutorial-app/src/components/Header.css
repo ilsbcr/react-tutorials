@@ -1,0 +1,18 @@
+.header {
+    background-color: aqua;
+    text-shadow : black 2px 2px 2px;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+
+}
+.header-layout {
+    display: sticky;
+    width: 100%;
+    height: 10%; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
