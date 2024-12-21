@@ -1,0 +1,33 @@
+https://www.youtube.com/watch?v=UYLS4yR9rA4&list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS&index=4
+
+git branch 
+git branch -a 
+git checkout 
+
+2: ما هو رياكت ؟ | What is React JS 
+https://www.youtube.com/watch?v=aI_fsq7E2w8&list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS&index=5
+
+two-way-binding
+
+
+ 3: التجربة الأولى ل React 
+ https://www.youtube.com/watch?v=gIrYp2rIL8g&list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS&index=6
+
+ framwork vs library
+ component JS code returns HTML 
+
+4: تجهيز بيئة العمل و إنشاء مشروع React جديد 
+https://www.youtube.com/watch?v=UL3Qt2ekPqg&list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS&index=7
+
+npm cache clean --force
+
+ 5: فهم هيكلة مشاريع React 
+https://www.youtube.com/watch?v=WkZ8PJXgWA4&list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS&index=8
+
+
+
+ 6: بناء ال component الأول في React 
+app.js is the root component 
+component returns only one element (use wrapper & div)
+
+
