@@ -1,0 +1,9 @@
+.sidebar{
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    left: 0;
+    background-color: #959595;
+    /* margin-top: 15%; */
+    
+}
