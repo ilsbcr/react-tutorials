@@ -9,19 +9,20 @@ function App() {
 
   return (
     <>
-      {/* <div class="header-layout"></div> */}
       <Header />
 
       <div className="container-sidebar-postlist">
-      
-      <div className="post-container">  <Post /> <Post /><Post /><Post /> </div>
-       <SideBar />
+        <div className="post-container">
+          <Post /> 
+          <Post />
+          <Post />
+          <Post />
+        </div>
+        <div className="sidebar-container">
+          <SideBar />
+        </div>
       </div>
 
-       
-    
-
-      {/* <h1>Branch - Challenge 1</h1> */}
     </>
   );
 }
