@@ -2,6 +2,11 @@
    
     /* border: 1px solid #ccc;
     border-radius: 5%; */
-    background-color: #f9f9f9;
-    margin-left: 20%;
+    background-color: #ffffff;
+    border: #007ff5 solid 1px;
+    padding: 0% 1% 0% 1%;
+    width: 95%;
+    margin: 1% 0% 1% 0%;
+    
+    /* margin-left: 20%; */
 }

@@ -10,10 +10,17 @@ function App() {
   return (
     <>
       {/* <div class="header-layout"></div> */}
-        <Header />
-        <SideBar />
-        <Post />
-        
+      <Header />
+
+      <div className="container-sidebar-postlist">
+      
+      <div className="post-container">  <Post /> <Post /><Post /><Post /> </div>
+       <SideBar />
+      </div>
+
+       
+    
+
       {/* <h1>Branch - Challenge 1</h1> */}
     </>
   );
